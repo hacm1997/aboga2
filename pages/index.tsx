@@ -4,6 +4,7 @@ import HomeComponent from "../components/general/views/home/home.component";
 import ReactGA from "react-ga4";
 import Head from 'next/head';
 
+/* hola mundo */
 const Home: NextPage = () => {
     ReactGA.send({ hitType: "pageview", page: "/", title: "Page: INICIO" });
   return (
