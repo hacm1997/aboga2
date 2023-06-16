@@ -1,0 +1,84 @@
+{
+  "planes": {
+    "laboral": {
+      "title": "Derecho laboral",
+      "item": [
+        {
+          "texto": "Trámites de pensión de vejez."
+        },
+        {
+          "texto": "Trámite de pensión de sobrevivientes."
+        },
+        {
+          "texto": "Solicitud de pago de incapacidades."
+        },
+        {
+          "texto": "Revisión de contratos laborales, liquidaciones contractuales y prestaciones sociales."
+        }
+      ]
+    },
+    "penal": {
+      "title": "Derecho penal",
+      "item": [
+        {
+          "texto": "Asesoría, redacción de denuncias, representación extrajudicial y judicial (en etapa preliminar y de conocimiento)."
+        }
+      ]
+    },
+    "constitucional": {
+      "title": "Derecho Constitucional",
+      "item": [
+        {
+          "texto": "Asesoría y presentación de acciones de tutela e incidentes de desacato."
+        },
+        {
+          "texto": "Acciones de grupo."
+        },
+        {
+          "texto": "Acciones populares."
+        }
+      ]
+    },
+    "policivo": {
+      "title": "Derecho policivo",
+      "item": [
+        {
+          "texto": "Solicitudes de amparo policivo por comportamientos contrarios al uso del espacio público, perturbación de la integridad urbanística, comportamientos que afectan la actividad económica."
+        }
+      ]
+    },
+    "proteccion_consumidor": {
+      "title": "Derecho de protección al consumidor",
+      "item": [
+        {
+          "texto": "Demandas por infracción de normas de protección al consumidor relacionadas con garantías, devoluciones de productos / dinero, publicidad engañosa e infracción de deber de seguridad y cuidado de parqueaderos."
+        }
+      ]
+    },
+    "consummer_finance": {
+      "title": "Derecho de protección al consumidor financiero",
+      "item": [
+        {
+          "texto": "Protección de hábeas data, eliminación de reportes en centrales de riesgo, asesoría en casos de suplantación de identidad."
+        }
+      ]
+    },
+    "admin_proccess": {
+      "title": "Procesos administrativos",
+      "item": [
+        {
+          "texto": "Solicitud de prescripción de impuesto predial."
+        },
+        {
+          "texto": "Solicitud de prescripción de multas de tránsito."
+        },
+        {
+          "texto": "Solicitud de rectificación de factura por cobro excesivo de servicios públicos."
+        }
+      ]
+    }
+  }
+}
+
+
+

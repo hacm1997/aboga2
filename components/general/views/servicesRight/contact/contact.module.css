@@ -1,0 +1,65 @@
+.general_content{
+    background-image: url('/images/servicios/contact/background-grid.png');
+    background-size: 100% 100%;
+    height: auto;
+}
+
+.text p{
+    font-size: 28px;
+    color: #333333;
+}
+.text p span{
+    color: #004477;
+    font-weight: 900;
+}
+
+.contact_button button{
+    width: 160px;
+    height: 40px;
+    border-radius: 5px;
+    color: #333333;
+    font-weight: 700;
+    background-color: #FFFFFF;
+    border: 2px solid #009dff;
+    transition: 0.5s;
+}
+
+.contact_button button:hover{
+    transition: 0.6s;
+    transform: translateY(5px);
+    color: #FFFFFF;
+    background: linear-gradient(100deg, rgba(0,157,255,1) 0%, rgba(0,68,119,1) 100%);
+}
+
+@media (max-width: 1100px){
+    .principal_text{
+        padding-top: 150px;
+    }
+}
+
+@media (max-width: 928px){
+    .people{
+        display: none;
+    }
+    .principal_text{
+        margin-top: -100px;
+        width: 80%;
+    }
+    .text{
+        padding-left: 0;
+        width: 100%;
+        text-align: center;
+    }
+    .text p{
+        font-size: 26px;
+    }
+    .arrow_top{
+        display: none;
+    }
+    .contact_button{
+        display: flex;
+        justify-content: center;
+        padding-left: 0;
+        padding-bottom: 50px;
+    }
+}

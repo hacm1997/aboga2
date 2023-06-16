@@ -1,0 +1,58 @@
+.text1 h2{
+    font-size: 30px;
+    line-height: 40px;
+    color: #333333;
+}
+.text1 h2 span{
+    color: #004477;
+    font-weight: 700;
+}
+
+.text1 button{
+    margin-top: 40px;
+    width: 150px;
+    height: 40px;
+    border-radius: 5px;
+    color: #FFFFFF;
+    font-weight: 700;
+    background: linear-gradient(100deg, rgba(0,157,255,1) 0%, rgba(0,68,119,1) 100%);
+    transition: 0.5s;
+}
+
+.text1 button:hover{
+    transition: 1s;
+    transform: translateY(5px);
+    border: 1px solid #0070f3;
+}
+.text2{
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    background: linear-gradient(90deg, rgba(0,157,255,1) 0%, rgba(0,68,119,1) 100%);
+}
+.text2 p{
+    color: #FFFFFF;
+    font-size: 17px;
+}
+.text2 p span{
+    font-weight: 700;
+}
+
+/* RESPONSIVE */
+@media (max-width: 753px){
+    .text1 button{
+        font-size: 12px;
+        width: 120px;
+        height: 30px;
+    }
+}
+@media (max-width: 450px){
+    .text1{
+        padding: 5px;
+        margin-top: 220px;
+        text-align: center;
+    }
+    .text2{
+        border-top-left-radius: 0;
+        border-bottom-left-radius: 0;
+    }
+}

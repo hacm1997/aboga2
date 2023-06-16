@@ -1,0 +1,4 @@
+Aboga:
+  component: "@sls-next/serverless-component@latest"
+  inputs:
+    domain: ["aboga.co"]

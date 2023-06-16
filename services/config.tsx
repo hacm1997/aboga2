@@ -1,0 +1,12 @@
+const config = {
+  API_URL: process.env.NEXT_PUBLIC_BASE_URL,
+  EMAIL_GOOGLE: process.env.NEXT_PUBLIC_MAILER_SENDER,
+  PASSWORD_GOOGLE: process.env.NEXT_PUBLIC_PASSWORD,
+  TENANT: process.env.NEXT_PUBLIC_TENANT,
+  MAILER_HOST: process.env.NEXT_PUBLIC_MAILER_HOST,
+  MAILER_PORT: process.env.NEXT_PUBLIC_MAILER_PORT,
+  TRACKING_ID: process.env.NEXT_PUBLIC_TRACKING_ID,
+  EMAIL_ABOGA: process.env.NEXT_PUBLIC_EMAIL_ABOGA
+};
+
+export default config;

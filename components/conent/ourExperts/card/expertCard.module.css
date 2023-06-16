@@ -1,0 +1,115 @@
+.general{
+    position: relative;
+}
+.expertImg{
+    z-index: 99;
+}
+.expertImg img{
+    width: 80% !important;
+    height: 100% !important;
+}
+.expertImg:before {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    width: 24%;
+    height: 100px;
+    background: linear-gradient(180deg, rgba(0,157,255,0) 64%, rgba(255,255,255,1) 100%);
+    z-index: 1;
+}
+.card {
+    background-image: url("/images/experts/expert-background.png");
+    background-size: 100% 100%;
+    position: relative;
+    width: 50%;
+    height: 100%;
+    background-color: #FFFFFF;
+    margin-top: 135px;
+    margin-left: -230px;
+    border-radius: 20px;
+    z-index: -1;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    padding-left: 180px;
+}
+
+.info{
+    color: #FFFFFF;
+}
+.info h5{
+    font-size: 26px;
+    font-weight: 600;
+    line-height: 28px;
+}
+.info p:nth-child(5){
+    margin-top: -10px;
+    font-size: 13px;
+    font-weight: 200;
+}
+.info p:nth-child(2){
+    font-weight: 900;
+    font-size: 16px;
+}
+.info p:nth-child(3){
+    font-weight: 700;
+    font-size: 14px;
+}
+
+.exp div{
+    border-radius: 100%;
+    width: 50px;
+    height: 50px;
+    background-color: #FFFFFF;
+    padding-top: 1px;
+    color: #44C7EA;
+    font-weight: 900;
+    font-size: 30px;
+}
+.exp p:nth-child(2){
+    color: #FFFFFF;
+    padding-top: 5px;
+    line-height: 20px;
+    font-weight: 200;
+}
+
+/* RESPONSIVE */
+@media (max-width: 1090px){
+    .general_content{
+        display: block;
+        padding: 40px;
+    }
+    .expertImg{
+        display: flex;
+        justify-content: center;
+        width: 100%;
+    }
+    .expertImg img{
+        width: 250px !important;
+    }
+    .extra_info{
+        display: flex;
+        justify-content: center;
+    }
+    .card{
+        margin-top: 0;
+        margin-left: 0;
+        width: 100%;
+        padding: 20px;
+    }
+    .expertImg:before {
+        background: none;
+    }
+}
+
+@media (max-width: 490px){
+    .card{
+        display: block;
+    }
+    .info{
+        text-align: center;
+        width: 100%;
+    }
+    .extra_info{
+        padding-top: 20px;
+    }
+}

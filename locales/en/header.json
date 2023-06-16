@@ -1,0 +1,45 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "advice": "Asesorías legales",
+    "service_person": {
+      "title": "Servicio persona",
+      "services": [
+        {
+          "title": "Servicio persona 1",
+          "url": "/servicio-personas/sp1"
+        },
+        {
+          "title": "Servicio persona 2",
+          "url": "/servicio-personas/sp2"
+        },
+        {
+          "title": "Servicio persona 1",
+          "url": "/servicio-personas/sp3"
+        }
+      ]
+    },
+    "service_business": {
+      "title": "Servicio empresas",
+      "services": [
+        {
+          "title": "Servicio empresa 1",
+          "url": "/servicio-empresas/se1"
+        },
+        {
+          "title": "Servicio empresa 2",
+          "url": "/servicio-empresas/se2"
+        },
+        {
+          "title": "Servicio empresa 3",
+          "url": "/servicio-empresas/se3"
+        }
+      ]
+    }
+  },
+  "button": {
+    "name": "Agendar cita",
+    "url": "https://api.whatsapp.com/send?phone=573242382277&text=Hola,%20estoy%20interesado%20en%20conocer%20m%C3%A1s%20sobre%20los%20servicios%20que%20ofrece%20Aboga.",
+    "target": "_blank"
+  }
+}

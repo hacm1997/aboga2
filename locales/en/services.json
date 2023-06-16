@@ -1,0 +1,140 @@
+{
+  "general_button": "Agendar cita",
+  "our_experts": {
+    "title": "Nuestros",
+    "title_pt2": "expertos",
+    "list": [
+      {
+        "name": "Keiry Berdugo",
+        "photo": "/images/experts/keiry.png",
+        "position": "Abogada profesional",
+        "ability": "Esp. En Derecho Administrativo",
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.",
+        "exp_number": 4,
+        "exp_text": "Años de experiencia"
+      },
+      {
+        "name": "Juan José",
+        "photo": "/images/experts/juan-jose.png",
+        "position": "Abogado profesional",
+        "ability": "Esp. En Derecho Administrativo",
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.",
+        "exp_number": 4,
+        "exp_text": "Años de experiencia"
+      }
+    ]
+  },
+  "general_services_title": "Nuestros servicios incluyen",
+  "form_general":{
+    "form_data": {
+      "title_span": "¡Agenda una consulta con nosotros",
+      "title": "hoy mismo y deja que te ayudemos a navegar por tu proceso de separación con profesionalismo y compasión!",
+      "dpto": "Departameto",
+      "city": "Ciudad",
+      "address": "Dirección",
+      "fullname": "Nombres y apellidos",
+      "phone": "Tel/Cel",
+      "email": "E-mail",
+      "type_service": "Tipo de servicio",
+      "service": "Servicio"
+    }
+  },
+  "sp1": {
+    "title": "Derecho familiar",
+    "banner": {
+      "title": "¡Obtén la ayuda legal que necesitas para tu proceso de separación!",
+      "description": "¿Te encuentras en un proceso de separación con tu pareja y necesitas orientación legal confiable? ¿te gustaría saber como se dividen los bienes? En ABOGA, entendemos que la separación puede ser un momento\nemocionalmente difícil y legalmente complejo."
+    },
+    "our_team": {
+      "title": "Nuestro equipo de abogados especializados en derecho familiar ",
+      "title_span": "está aquí para\nayudarte en cada paso\ndel camino.",
+      "title2": "Te brindaremos el apoyo y la asesoría legal que necesitas para",
+      "title2_span": "proteger tus derechos e intereses."
+    },
+    "our_services": [
+        {
+        "img": "/images/servicios/our-services/logo-asesoria.png",
+        "title": "Asesoramiento legal personalizado",
+        "description": "Nuestros abogados altamente calificados te brindarán asesoramiento legal personalizado, teniendo en cuenta tu situación única y tus necesidades específicas. Te ayudaremos a entender tus derechos y opciones legales en el proceso de separación, incluyendo la división de bienes, la custodia de los hijos, el mantenimiento o la pensión alimenticia, y otros aspectos relevantes.",
+        "bg_color": "blue"
+      },
+      {
+        "img": "/images/servicios/our-services/logo-negociacion.png",
+        "title": "Negociación y mediación",
+        "description": "Nos esforzamos por encontrar soluciones amistosas y equitativas para resolver los conflictos en el proceso de separación. Nuestros abogados son expertos en la negociación y la mediación, y trabajaremos para llegar a acuerdos justos y favorables para ti, evitando costosos y prolongados litigios en la medida de lo posible.",
+        "bg_color": "white"
+      },
+      {
+        "img": "/images/servicios/our-services/logo-representacion.png",
+        "title": "Representación legal en litigios",
+        "description": "Si el proceso de separación se vuelve más complicado y requiere acciones legales más formales, nuestro equipo de abogados está preparado para representarte en los tribunales. Defendemos tus derechos en litigios de derecho familiar, asegurándonos de que tus intereses estén protegidos y abogando enérgicamente en tu nombre.",
+        "bg_color": "white"
+      },
+      {
+        "img": "/images/servicios/our-services/logo-soluciones.png",
+        "title": "Soluciones a medida",
+        "description": "En ABOGA, creemos en encontrar soluciones a medida para nuestros clientes. Nos adaptamos a tus necesidades y preferencias, ya sea que busques una solución amistosa o necesites una representación legal más agresiva. Nuestro objetivo es ayudarte a lograr tus objetivos y proteger tus intereses en tu proceso de separación con tu pareja.",
+        "bg_color": "blue"
+      }
+    ],
+    "need_assessor": {
+      "title_pt1": "Si estás en proceso de separación y necesitas",
+      "title_span": "asesoramiento legal confiable y personalizado,",
+      "title_pt2": "no dudes en ponerte en contacto con nosotros."
+    },
+    "form":{
+      "title1": "Nuestro equipo de",
+      "titpleSpan": "abogados especializados en derecho familiar",
+      "title2": "está aquí para ayudarte en cada paso del camino."
+    }
+  },
+  "se1": {
+    "title": "Derecho familiar",
+    "banner": {
+      "title": "¡Obtén la ayuda legal que necesitas para tu proceso de separación!",
+      "description": "¿Te encuentras en un proceso de separación con tu pareja y necesitas orientación legal confiable? ¿te gustaría saber como se dividen los bienes? En ABOGA, entendemos que la separación puede ser un momento\nemocionalmente difícil y legalmente complejo."
+    },
+    "our_team": {
+      "title": "Nuestro equipo de abogados especializados en derecho familiar ",
+      "title_span": "está aquí para\nayudarte en cada paso\ndel camino.",
+      "title2": "Te brindaremos el apoyo y la asesoría legal que necesitas para",
+      "title2_span": "proteger tus derechos e intereses."
+    },
+    "our_services": [
+        {
+        "img": "/images/servicios/our-services/logo-asesoria.png",
+        "title": "Asesoramiento legal personalizado",
+        "description": "Nuestros abogados altamente calificados te brindarán asesoramiento legal personalizado, teniendo en cuenta tu situación única y tus necesidades específicas. Te ayudaremos a entender tus derechos y opciones legales en el proceso de separación, incluyendo la división de bienes, la custodia de los hijos, el mantenimiento o la pensión alimenticia, y otros aspectos relevantes.",
+        "bg_color": "blue"
+      },
+      {
+        "img": "/images/servicios/our-services/logo-negociacion.png",
+        "title": "Negociación y mediación",
+        "description": "Nos esforzamos por encontrar soluciones amistosas y equitativas para resolver los conflictos en el proceso de separación. Nuestros abogados son expertos en la negociación y la mediación, y trabajaremos para llegar a acuerdos justos y favorables para ti, evitando costosos y prolongados litigios en la medida de lo posible.",
+        "bg_color": "white"
+      },
+      {
+        "img": "/images/servicios/our-services/logo-representacion.png",
+        "title": "Representación legal en litigios",
+        "description": "Si el proceso de separación se vuelve más complicado y requiere acciones legales más formales, nuestro equipo de abogados está preparado para representarte en los tribunales. Defendemos tus derechos en litigios de derecho familiar, asegurándonos de que tus intereses estén protegidos y abogando enérgicamente en tu nombre.",
+        "bg_color": "white"
+      },
+      {
+        "img": "/images/servicios/our-services/logo-soluciones.png",
+        "title": "Soluciones a medida",
+        "description": "En ABOGA, creemos en encontrar soluciones a medida para nuestros clientes. Nos adaptamos a tus necesidades y preferencias, ya sea que busques una solución amistosa o necesites una representación legal más agresiva. Nuestro objetivo es ayudarte a lograr tus objetivos y proteger tus intereses en tu proceso de separación con tu pareja.",
+        "bg_color": "blue"
+      }
+    ],
+    "need_assessor": {
+      "title_pt1": "Si estás en proceso de separación y necesitas",
+      "title_span": "asesoramiento legal confiable y personalizado,",
+      "title_pt2": "no dudes en ponerte en contacto con nosotros."
+    },
+    "form":{
+      "title1": "Nuestro equipo de",
+      "titpleSpan": "abogados especializados en derecho familiar",
+      "title2": "está aquí para ayudarte en cada paso del camino."
+    }
+  }
+}

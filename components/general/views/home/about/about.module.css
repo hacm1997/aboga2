@@ -1,0 +1,15 @@
+.title h3{
+    font-family: 'GothamMedium', sans-serif;
+    color: #004477;
+    font-weight: 500;
+}
+
+@media (max-width: 440px) {
+    .squard{
+        display: none;
+    }
+    .title h3{
+        font-size: 26px;
+        width: 300px;
+    }
+}

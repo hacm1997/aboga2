@@ -1,0 +1,82 @@
+{
+  "planes": {
+    "basico": {
+      "title": "Básico",
+      "item": [
+        {
+          "texto": "Constitución de Sociedad Comercial (S.A.S., S.A., o S.C.S.)."
+        },
+        {
+          "texto": "Creación del Reglamento Interno de Trabajo."
+        },
+        {
+          "texto": "Una (1) capacitación y socialización del Reglamento Interno de Trabajo."
+        },
+        {
+          "texto": "Revisión de hasta tres (3) contratos laborales contratos laborales."
+        },
+        {
+          "texto": "Asesorías Generales sobre asuntos jurídicos de la empresa."
+        },
+        {
+          "texto": "Atención y respuesta de peticiones, quejas y reclamos realizadas a la empresa relacionadas con asuntos jurídicos."
+        }
+      ]
+    },
+    "superior": {
+      "title": "Superior",
+      "item": [
+        {
+          "texto": "Constitucion de Sociedad Comercial (S.A.S., S.A., o S.C.S.)."
+        },
+        {
+          "texto": "Creación del reglamento interno de trabajo."
+        },
+        {
+          "texto": "Una (1) capacitación y socialización del reglamento interno de trabajo + Capacitación personalizada a nuevos empleados que ingresen durante la vigencia del plan."
+        },
+        {
+          "texto": "Redacción + Revisión de hasta cinco (5) Contratos laborales. Asesoría en realización de despidos con justa y sin justa causa."
+        },
+        {
+          "texto": "Revisión de responsabilidad en pago de impuestos."
+        },
+        {
+          "texto": "Diagnóstico y asesoría sobre implementación y cumplimiento de normas de protección al consumidor."
+        }
+      ]
+    },
+    "integral": {
+      "title": "Integral",
+      "item": [
+        {
+          "texto": "Constitucion de Sociedad Comercial (S.A.S., S.A., o S.C.S.)."
+        },
+        {
+          "texto": "Creación del reglamento interno de trabajo."
+        },
+        {
+          "texto": "Dos (2) capacitaciones y socializaciones del reglamento interno de trabajo + Capacitación personalizada a nuevos empleados que ingresen durante la vigencia del plan."
+        },
+        {
+          "texto": "Redacción + Revisión ilimitada de Contratos laborales."
+        },
+        {
+          "texto": "Asesoría en realización de Revisión de responsabilidad en pago de impuestos."
+        },
+        {
+          "texto": "Diagnóstico, asesoría y seguimiento sobre implementación y cumplimiento de normas de protección al consumidor."
+        },
+        {
+          "texto": "Diagnóstico, asesoría, creación y seguimiento de políticas de tratamiento de datos."
+        },
+        {
+          "texto": "Atención y respuesta de peticiones, quejas y reclamos relacionadas con asuntos jurídicos."
+        }
+      ]
+    }
+  }
+}
+
+
+

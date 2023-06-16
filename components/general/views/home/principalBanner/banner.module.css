@@ -1,0 +1,67 @@
+.content{
+    height: 53rem;
+    /*background-size: 550px 100%;*/
+}
+.title{
+    font-family: 'GothamMedium', sans-serif;
+    font-size: 38px;
+    font-weight: 600;
+    line-height: 48px;
+    color: #004477;
+}
+.description{
+    font-size: 14px;
+    color: #333333;
+}
+.button button{
+    width: 150px;
+    height: 40px;
+    border-radius: 5px;
+    color: #FFFFFF;
+    font-weight: 700;
+    background: linear-gradient(100deg, rgba(0,157,255,1) 0%, rgba(0,68,119,1) 100%);
+    transition: 0.5s;
+}
+
+.button button:hover{
+    transition: 1s;
+    transform: translateY(5px);
+    border: 1px solid #0070f3;
+}
+
+@media (max-width: 1770px){
+    .content{
+        background-size: 500px 100%;
+    }
+}
+@media (max-width: 923px) {
+    .texts{
+        padding-left: 0px;
+        width: 90%;
+    }
+    .title{
+        padding-left: 20px;
+    }
+    .description{
+        padding-left: 20px;
+    }
+    .button{
+        padding-left: 20px;
+    }
+}
+@media (max-width: 715px) {
+    .content{
+        background-color: #FFFFFF;
+        background-image: none;
+    }
+    .general{
+        display: block;
+    }
+    .texts{
+        padding-left: 0px;
+        width: 90%;
+    }
+    .title{
+        font-size: 30px;
+    }
+}

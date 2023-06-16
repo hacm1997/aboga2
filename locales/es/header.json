@@ -1,0 +1,87 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "advice": "Asesorías legales",
+    "service_person": {
+      "title": "Servicio personas",
+      "services": [
+        {
+          "title": "Trámites administrativos",
+          "url": "/servicio-personas/tramites-administrativos"
+        },
+        {
+          "title": "Derecho de familia",
+          "url": "/servicio-personas/derecho-familiar"
+        },
+        {
+          "title": "Derecho constitucional",
+          "url": "/servicio-personas/derecho-constitucional"
+        },
+        {
+          "title": "Derecho civil",
+          "url": "/servicio-personas/derecho-civil"
+        },
+        {
+          "title": "Derecho laboral",
+          "url": "/servicio-personas/derecho-laboral"
+        },
+        {
+          "title": "Derecho del consumidor",
+          "url": "/servicio-personas/derecho-consumidor"
+        },
+        {
+          "title": "Propiedad horizontal",
+          "url": "/servicio-personas/propiedad-horizontal"
+        },
+        {
+          "title": "Derecho penal",
+          "url": "/servicio-personas/derecho-penal"
+        }
+      ]
+    },
+    "service_business": {
+      "title": "Servicio empresas",
+      "services": [
+        {
+          "title": "Derecho civil",
+          "url": "/servicio-empresas/derecho-civil"
+        },
+        {
+          "title": "Derecho comercial",
+          "url": "/servicio-empresas/derecho-comercial"
+        },
+        {
+          "title": "Derecho del consumidor y competencia desleal",
+          "url": "/servicio-empresas/derecho-consumidor-competencia-desleal",
+          "sub_services": [
+            {
+              "title": "Proteccion de datos personales",
+              "url": "/servicio-empresas/derecho-consumidor/proteccion-datos-personales"
+            },
+            {
+              "title": "Términos y condiciones",
+              "url": "/servicio-empresas/derecho-consumidor/terminos-condiciones"
+            }
+          ]
+        },
+        {
+          "title": "Derecho laboral",
+          "url": "/servicio-empresas/derecho-laboral"
+        },
+        {
+          "title": "Derecho tributario",
+          "url": "/servicio-empresas/derecho-tributario"
+        },
+        {
+          "title": "Propiedad horizontal",
+          "url": "/servicio-empresas/propiedad-horizontal"
+        }
+      ]
+    }
+  },
+  "button": {
+    "name": "Agendar cita",
+    "url": "https://api.whatsapp.com/send?phone=573242382277&text=Hola,%20estoy%20interesado%20en%20conocer%20m%C3%A1s%20sobre%20los%20servicios%20que%20ofrece%20Aboga.",
+    "target": "_blank"
+  }
+}

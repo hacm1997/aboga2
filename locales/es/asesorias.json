@@ -1,0 +1,70 @@
+{
+    "general_button": "Agendar cita",
+    "general_button2": "Contratar",
+    "banner_content": {
+        "title": "En nuestro despacho ofrecemos una amplia variedad de servicios jurídicos.",
+        "description": "Diseñados específicamente para satisfacer las necesidades de las empresas. Sabemos que cada empresa es única, por lo que hemos creado varios paquetes de servicios para adaptarnos a las necesidades de cada cliente.",
+        "image": "/images/asesorias/equipo-aboga.png",
+        "alt": "Equipo ABOGA"
+    },
+    "packages": {
+        "title": "A continuación, te presentamos los paquetes que ofrecemos:",
+        "list_packages": [
+            {
+                "name": "Básico",
+                "list": [
+                    {"item": "Constitución de Sociedad Comercial (S.A.S., S.A., o S.C.S.)."},
+                    {"item": "Creación del Reglamento Interno de Trabajo."},
+                    {"item":  "Una (1) capacitación y socialización del Reglamento Interno de Trabajo."},
+                    {"item":  "Revisión de hasta tres (3) contratos laborales contratos laborales."},
+                    {"item":  "Asesorías Generales sobre asuntos jurídicos de la empresa."},
+                    {"item":  "Atención y respuesta de peticiones, quejas y reclamos realizadas a la empresa relacionadas con asuntos jurídicos."}
+                ]
+            },
+            {
+                "name": "Superior",
+                "list": [
+                    {"item":  "Constitucion de Sociedad Comercial (S.A.S., S.A., o S.C.S.)."},
+                    {"item": "Creación del Reglamento Interno de Trabajo."},
+                    {"item": "Una (1) capacitación y socialización del reglamento interno de trabajo + Capacitación personalizada a nuevos empleados que ingresen durante la vigencia del plan."},
+                    {"item": "Redacción + Revisión de hasta cinco (5) Contratos laborales. Asesoría en realización de despidos con justa y sin justa causa."},
+                    {"item": "Revisión de responsabilidad en pago de impuestos."},
+                    {"item": "Diagnóstico y asesoría sobre implementación y cumplimiento de normas de protección al consumidor."},
+                    {"item": "Atención y respuesta de peticiones, quejas y reclamos relacionadas con asuntos jurídicos."}
+                ]
+            },
+            {
+                "name": "Integral",
+                "list": [
+                    {"item":  "Constitucion de Sociedad Comercial (S.A.S., S.A., o S.C.S.)."},
+                    {"item": "Creación del Reglamento Interno de Trabajo."},
+                    {"item": "Dos (2) capacitaciones y socializaciones del reglamento interno de trabajo + Capacitación personalizada a nuevos empleados que ingresen durante la vigencia del plan."},
+                    {"item": "Redacción + Revisión ilimitada de Contratos laborales."},
+                    {"item": "Asesoría en realización de Revisión de responsabilidad en pago de impuestos."},
+                    {"item": "Diagnóstico, asesoría y seguimiento sobre implementación y cumplimiento de normas de protección al consumidor."},
+                    {"item": "Diagnóstico, asesoría, creación y seguimiento de políticas de tratamiento de datos."},
+                    {"item": "Atención y respuesta de peticiones, quejas y reclamos relacionadas con asuntos jurídicos."}
+                ]
+            }
+        ]
+    },
+    "extra_info": {
+        "text1_p1": "En nuestro despacho",
+        "text1_p2": "creemos en la importancia de adaptar nuestros servicios a las necesidades específicas de cada cliente.",
+        "text2": "Si no encuentra el paquete que se ajusta a sus necesidades, contáctenos y trabajaremos juntos para diseñar un paquete que satisfaga sus necesidades."
+    },
+    "form": {
+        "title": "¡No dude en ponerse en contacto con nosotros para obtener más información sobre nuestros servicios de asesoría legal empresarial!",
+        "title2": "",
+        "inputs": {
+            "dpto": "Departameto",
+            "city": "Ciudad",
+            "address": "Dirección",
+            "fullname": "Nombres y apellidos",
+            "phone": "Tel/Cel",
+            "email": "E-mail",
+            "type_service": "Tipo de servicio",
+            "service": "Servicio"
+        }
+    }
+}

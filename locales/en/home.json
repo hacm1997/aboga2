@@ -1,0 +1,221 @@
+{
+  "title_banner": "¡Somos su mayor aliado legal! En Aboga, velamos por usted y su empresa",
+  "description": "En nuestro equipo contamos con abogados altamente capacitados y con amplia experiencia en diversas áreas del derecho. Nos especializamos en derecho familiar, derecho comercial, derecho constitucional o laboral, y ofrecemos servicios de asesoría legal.",
+  "button": "Agendar cita",
+  "list_services": {
+    "s_persons": "Servicio Personas",
+    "s_business": "Servicio Empresas"
+  },
+  "services-persons": {
+    "title": "Ofrecemos servicios en",
+    "items": [
+      {
+        "img": "/images/home/services/default_icon1_color.png",
+        "img_hover": "/images/home/services/default_icon1.png",
+        "title": "Derecho familiar",
+        "description": "Podemos ayudarte en una amplia gama de asuntos legales, incluyendo divorcios, custodia de menores, manutención de menores, violencia doméstica y adopciones. Estamos comprometidos en encontrar la mejor solución para ti y tu familia en estas situaciones difíciles."
+      },
+      {
+        "img": "/images/home/services/default_icon2_color.png",
+        "img_hover": "/images/home/services/default_icon2.png",
+        "title": "Derecho comercial",
+        "description": "Podemos ayudarte en una amplia gama de asuntos legales, incluyendo divorcios, custodia de menores, manutención de menores, violencia doméstica y adopciones. Estamos comprometidos en encontrar la mejor solución para ti y tu familia en estas situaciones difíciles."
+      },
+      {
+        "img": "/images/home/services/default_icon2_color.png",
+        "img_hover": "/images/home/services/default_icon2.png",
+        "title": "Derecho laboral",
+        "description": "Podemos ayudarte en una amplia gama de asuntos legales, incluyendo divorcios, custodia de menores, manutención de menores, violencia doméstica y adopciones. Estamos comprometidos en encontrar la mejor solución para ti y tu familia en estas situaciones difíciles."
+      },
+      {
+        "img": "/images/home/services/default_icon2_color.png",
+        "img_hover": "/images/home/services/default_icon2.png",
+        "title": "Derecho penal",
+        "description": "Podemos ayudarte en una amplia gama de asuntos legales, incluyendo divorcios, custodia de menores, manutención de menores, violencia doméstica y adopciones. Estamos comprometidos en encontrar la mejor solución para ti y tu familia en estas situaciones difíciles."
+      },
+      {
+        "img": "/images/home/services/default_icon2_color.png",
+        "img_hover": "/images/home/services/default_icon2.png",
+        "title": "Derecho constitucional",
+        "description": "Podemos ayudarte en una amplia gama de asuntos legales, incluyendo divorcios, custodia de menores, manutención de menores, violencia doméstica y adopciones. Estamos comprometidos en encontrar la mejor solución para ti y tu familia en estas situaciones difíciles."
+      },
+      {
+        "img": "/images/home/services/default_icon2_color.png",
+        "img_hover": "/images/home/services/default_icon2.png",
+        "title": "Asesorías legales",
+        "description": "Podemos ayudarte en una amplia gama de asuntos legales, incluyendo divorcios, custodia de menores, manutención de menores, violencia doméstica y adopciones. Estamos comprometidos en encontrar la mejor solución para ti y tu familia en estas situaciones difíciles."
+      },
+      {
+        "img": "/images/home/services/default_icon2_color.png",
+        "img_hover": "/images/home/services/default_icon2.png",
+        "title": "Derecho civil",
+        "description": "Podemos ayudarte en una amplia gama de asuntos legales, incluyendo divorcios, custodia de menores, manutención de menores, violencia doméstica y adopciones. Estamos comprometidos en encontrar la mejor solución para ti y tu familia en estas situaciones difíciles."
+      },
+      {
+        "img": "/images/home/services/default_icon2_color.png",
+        "img_hover": "/images/home/services/default_icon2.png",
+        "title": "Derecho consumidor",
+        "description": "Podemos ayudarte en una amplia gama de asuntos legales, incluyendo divorcios, custodia de menores, manutención de menores, violencia doméstica y adopciones. Estamos comprometidos en encontrar la mejor solución para ti y tu familia en estas situaciones difíciles."
+      },
+      {
+        "img": "/images/home/services/default_icon2_color.png",
+        "img_hover": "/images/home/services/default_icon2.png",
+        "title": "Derecho Dev",
+        "description": "Podemos ayudarte en una amplia gama de asuntos legales, incluyendo divorcios, custodia de menores, manutención de menores, violencia doméstica y adopciones. Estamos comprometidos en encontrar la mejor solución para ti y tu familia en estas situaciones difíciles."
+      }
+    ]
+  },
+  "services-business": {
+    "title": "Ofrecemos servicios en",
+    "items": [
+      {
+        "img": "/images/home/services/default_icon1_color.png",
+        "img_hover": "/images/home/services/default_icon1.png",
+        "title": "Derecho familiarB",
+        "description": "Podemos ayudarte en una amplia gama de asuntos legales, incluyendo divorcios, custodia de menores, manutención de menores, violencia doméstica y adopciones. Estamos comprometidos en encontrar la mejor solución para ti y tu familia en estas situaciones difíciles."
+      },
+      {
+        "img": "/images/home/services/default_icon2_color.png",
+        "img_hover": "/images/home/services/default_icon2.png",
+        "title": "Derecho comercialB",
+        "description": "Podemos ayudarte en una amplia gama de asuntos legales, incluyendo divorcios, custodia de menores, manutención de menores, violencia doméstica y adopciones. Estamos comprometidos en encontrar la mejor solución para ti y tu familia en estas situaciones difíciles."
+      },
+      {
+        "img": "/images/home/services/default_icon2_color.png",
+        "img_hover": "/images/home/services/default_icon2.png",
+        "title": "Derecho laboral",
+        "description": "Asesoramos y representamos a empresas sobre asuntos contractuales, salariales y despidos. Para que no incurran en conductas contrarias a la ley. Nuestro equipo de abogados expertos en derecho laboral, te ayudarán y acompañarán durante todo el proceso."
+      },
+      {
+        "img": "/images/home/services/default_icon2_color.png",
+        "img_hover": "/images/home/services/default_icon2.png",
+        "title": "Derecho penalB",
+        "description": "Podemos ayudarte en una amplia gama de asuntos legales, incluyendo divorcios, custodia de menores, manutención de menores, violencia doméstica y adopciones. Estamos comprometidos en encontrar la mejor solución para ti y tu familia en estas situaciones difíciles."
+      },
+      {
+        "img": "/images/home/services/default_icon2_color.png",
+        "img_hover": "/images/home/services/default_icon2.png",
+        "title": "Derecho constitucionalB",
+        "description": "Podemos ayudarte en una amplia gama de asuntos legales, incluyendo divorcios, custodia de menores, manutención de menores, violencia doméstica y adopciones. Estamos comprometidos en encontrar la mejor solución para ti y tu familia en estas situaciones difíciles."
+      },
+      {
+        "img": "/images/home/services/default_icon2_color.png",
+        "img_hover": "/images/home/services/default_icon2.png",
+        "title": "Asesorías legalesB",
+        "description": "Podemos ayudarte en una amplia gama de asuntos legales, incluyendo divorcios, custodia de menores, manutención de menores, violencia doméstica y adopciones. Estamos comprometidos en encontrar la mejor solución para ti y tu familia en estas situaciones difíciles."
+      },
+      {
+        "img": "/images/home/services/default_icon2_color.png",
+        "img_hover": "/images/home/services/default_icon2.png",
+        "title": "Derecho civilB",
+        "description": "Ofrecemos asesoría legal para empresas y personas naturales, previniendo problemas legales y brindando soluciones personalizadas en temas jurídicos, desde redacción de contratos hasta representación en juicios civiles."
+      },
+      {
+        "img": "/images/home/services/default_icon2_color.png",
+        "img_hover": "/images/home/services/default_icon2.png",
+        "title": "Derecho consumidorB",
+        "description": "Podemos ayudarte en una amplia gama de asuntos legales, incluyendo divorcios, custodia de menores, manutención de menores, violencia doméstica y adopciones. Estamos comprometidos en encontrar la mejor solución para ti y tu familia en estas situaciones difíciles."
+      },
+      {
+        "img": "/images/home/services/default_icon2_color.png",
+        "img_hover": "/images/home/services/default_icon2.png",
+        "title": "Derecho Dev",
+        "description": "Podemos ayudarte en una amplia gama de asuntos legales, incluyendo divorcios, custodia de menores, manutención de menores, violencia doméstica y adopciones. Estamos comprometidos en encontrar la mejor solución para ti y tu familia en estas situaciones difíciles."
+      }
+    ]
+  },
+  "form": {
+    "title": "Si necesitas ayuda legal, no dudes en",
+    "title2": "ponerte en contacto con nosotros.",
+    "inputs": {
+      "dpto": "Departameto",
+      "city": "Ciudad",
+      "address": "Dirección",
+      "fullname": "Nombres y apellidos",
+      "phone": "Tel/Cel",
+      "email": "E-mail",
+      "type_service": "Tipo de servicio",
+      "service": "Servicio"
+    }
+  },
+  "areas": {
+    "item": [
+      {
+        "name": "Derecho civil",
+        "autor": "images/expertos/keiry-asesoria.jpg",
+        "icon": "/images/iconos/Derecho-civil.png",
+        "description": "Asesoramos a personas naturales y jurídicas en la adquisición de bienes y la ejecución de obligaciones. Igualmente, orientamos sobre asuntos sucesorales.",
+        "id": "1"
+      },
+      {
+        "name": "Derecho constitucional",
+        "autor": "images/expertos/juan-asesoria.png",
+        "icon": "/images/iconos/Derecho-constitucional.png",
+        "description": "Representamos a personas naturales y jurídicas en la protección integral de sus derechos fundamentales ante jueces constitucionales e Inspecciones de Policía.",
+        "id": "2"
+      },
+      {
+        "name": "Derecho comercial",
+        "autor": "images/expertos/keiry-asesoria.jpg",
+        "icon": "/images/iconos/Derecho-comercial.png",
+        "description": "Orientamos a empresas y personas naturales en la constitución y reforma de sociedades comerciales.",
+        "id": "3"
+      },
+      {
+        "name": "Derecho laboral",
+        "autor": "images/expertos/keiry-asesoria.jpg",
+        "icon": "/images/iconos/Derecho-laboral.png",
+        "description": "Ofrecemos consultorías a personas y empresas en la contratación laboral, despidos, liquidaciones y solicitudes de prestaciones sociales.",
+        "id": "4"
+      },
+      {
+        "name": "Derecho de protección al consumidor",
+        "autor": "images/expertos/juan-asesoria.png",
+        "icon": "/images/iconos/Derecho-de-protección-al-consumidor.png",
+        "description": "Diagnosticamos a empresas sobre el cumplimiento de normas de protección al consumidor. Representamos judicial y extrajudicialmente en asuntos jurisdiccionales ante SIC.",
+        "id": "5"
+      },
+      {
+        "name": "Derecho penal",
+        "autor": "images/expertos/juan-asesoria.png",
+        "description": "Asesoramos y representamos a personas en etapa preliminar y de juicio en sus asuntos penales.\n",
+        "id": "6"
+      }
+    ]
+  },
+  "who_we_are": {
+    "title": "¿Quienes",
+    "titleColor": "somos?",
+    "content1": "Somos una compañía encargada de asesorar jurídicamente a empresas, con el propósito de que puedan desarrollar sus actividades con solidez legal en el área comercial, laboral, civil y en lo relacionado con el cumplimiento de normas de protección del consumidor.",
+    "content2": "También asesoramos a personas en sus asuntos constitucionales, penales , laboral, civiles, comerciales, policivos y relacionados con derechos del consumidor."
+  },
+  "our_experts" : {
+    "title": "Nuestros",
+    "titleColor": "Expertos",
+    "experts": [
+      {
+        "name": "Keiry",
+        "lastName": "Berdugo",
+        "profession": "Profesional en Derecho ",
+        "position": "Investigadora judicial y Criminalista",
+        "description": "Emprendedora, profesional en Derecho con un enfoque en el ámbito comercial, empresarial y laboral.",
+        "experience": "Más de 6 años de experiencia en creación y asesorías a empresas nacionales e internacionales.",
+        "photo": "/images/expertos/keiry.png",
+        "alt": "Keiry Berdugo",
+        "years_exp": 6
+      },
+      {
+        "name": "Juan José",
+        "lastName": "Castillo",
+        "profession": "Profesional en Derecho ",
+        "position": "Abogado",
+        "description": "Profesional especializado, con enfoque en las áreas de derecho constitucional, penal y empresarial, particularmente en el área de protección del consumidor, propiedad industrial y competencia desleal.",
+        "experience": "Con 2 años de experiencia en la Rama Judicial en el análisis y proyección de asuntos constitucionales y penales.",
+        "photo": "/images/expertos/juan-jose.png",
+        "alt": "Juan-José-Castillo",
+        "years_exp": 2
+      }
+
+    ]
+  }
+}

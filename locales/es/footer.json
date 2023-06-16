@@ -1,0 +1,47 @@
+{
+  "about": {
+    "title": "Sobre nosotros",
+    "content": "Somos una empresa caracterizada por el compromiso en la defensa de los intereses jurídicos de las personas y empresas, con un enfoque multidisciplinar. Su caso es importante para nosotros, contáctenos."
+  },
+  "contact": {
+    "title": "Contáctanos",
+    "google_map": "https://goo.gl/maps/Eovd7qKibjcrhuSHA",
+    "direction": "Transversal 54 # 21a 120",
+    "direction2": "Edificio Bosque Ejectutivo Oficina 702",
+    "direction3": "Cartagena, Bolívar, Colombia",
+    "phone": "(+57) 324 238 2277"
+  },
+  "schedule": {
+    "title": "Horario de atención",
+    "title2": "Lunes a Viernes",
+    "content": "8:00 a.m. a 5:00 p.m."
+  },
+  "emails": {
+    "email": "info@boga.co"
+  },
+  "social": {
+    "item": [
+      {
+        "name": "Instagram",
+        "icon": "bx bxl-instagram",
+        "link": "https://www.instagram.com/abogacol_/"
+      },
+      {
+        "name": "LinkdIn",
+        "icon": "bx bxl-linkedin",
+        "link": "https://www.linkedin.com/company/aboga-s-a-s/?viewAsMember=true"
+      },
+      {
+        "name": "Facebook",
+        "icon": "bx bxl-facebook",
+        "link": "https://www.facebook.com/profile.php?id=100090863963031"
+      },
+
+      {
+        "name": "Twitter",
+        "icon": "bx bxl-twitter",
+        "link": "https://twitter.com/Abogacoll_"
+      }
+    ]
+  }
+}

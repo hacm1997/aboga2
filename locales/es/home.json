@@ -1,0 +1,226 @@
+{
+  "title_banner": "Somos un equipo de abogados que brinda soluciones jurídicas con un enfoque preventivo y multidisciplinario.",
+  "description": "En ABOGA ofrecemos asesoría legal para empresas, previniendo problemas legales y brindando soluciones personalizadas en asuntos jurídicos, desde redacción de contratos hasta representación judicial.",
+  "button": "Agendar cita",
+  "list_services": {
+    "s_persons": "Servicio Personas",
+    "s_business": "Servicio Empresas"
+  },
+  "services-persons": {
+    "title": "Ofrecemos servicios en:",
+    "items": [
+      {
+        "img": "/images/home/services/logos/Derecho de familia.png",
+        "img_hover": "/images/home/services/logos/Derecho de familia white.png",
+        "expert_img": "/images/experts/liz.png",
+        "title": "Derecho de familia",
+        "link": "/servicio-personas/derecho-familiar",
+        "description": "Ofrecemos servicios profesionales en derecho de familia, con el objetivo de ayudar a nuestros clientes a resolver asuntos legales de manera efectiva y satisfactoria, recuerda que no estás solo en esta situación."
+      },
+      {
+        "img": "/images/home/services/logos/Propiedad horizontal.png",
+        "img_hover": "/images/home/services/logos/Propiedad horizontal white.png",
+        "expert_img": "/images/experts/osman.png",
+        "link": "/servicio-personas/propiedad-horizontal",
+        "title": "Propiedad Horizontal",
+        "description": "Ofrecemos servicios jurídicos completos y personalizados para resolver conflictos que se presenten entre los copropietarios y residentes, o entre los copropietarios y la propiedad horizontal, ofrecemos soluciones efectivas y eficientes, para la sana convivencia y el correcto funcionamiento en la copropiedad."
+      },
+      {
+        "img": "/images/home/services/logos/Derecho laboral.png",
+        "img_hover": "/images/home/services/logos/Derecho laboral white.png",
+        "expert_img": "/images/experts/liz.png",
+        "title": "Derecho laboral",
+        "link": "/servicio-personas/derecho-laboral",
+        "description": "Nuestro objetivo principal es proteger tus derechos como trabajador y brindarte las herramientas necesarias para enfrentarte a cualquier situación laboral, con el fin de obtener resultados justos y equitativos."
+      },
+      {
+        "img": "/images/home/services/logos/Derecho penal.png",
+        "img_hover": "/images/home/services/logos/Derecho penal white.png",
+        "expert_img": "/images/experts/juan-jose.png",
+        "title": "Derecho penal",
+        "link": "/servicio-personas/derecho-penal",
+        "description": "Entendemos la importancia de tu libertad y reputación, y sabemos que se pueden ver comprometidas cuando nos enfrentamos a situaciones penales, por eso, ofrecemos asesorías y representación en las etapas preliminares y de juicio oral de sus asuntos en materia penal."
+      },
+      {
+        "img": "/images/home/services/logos/Derecho constitucional.png",
+        "img_hover": "/images/home/services/logos/Derecho constitucional white.png",
+        "expert_img": "/images/experts/juan-jose.png",
+        "title": "Derecho constitucional",
+        "link": "/servicio-personas/derecho-constitucional",
+        "description": "Entendemos la importancia de los derechos fundamentales, por eso, brindamos asesoría legal sólida y eficaz al momento de defenderlos, trabajamos contigo de manera comprometida para desarrollar estrategias legales efectivas."
+      },
+      {
+        "img": "/images/home/services/logos/Derecho del consumidor.png",
+        "img_hover": "/images/home/services/logos/Derecho del consumidor white.png",
+        "expert_img": "/images/experts/juan-jose.png",
+        "title": "Derecho del consumidor",
+        "link": "/servicio-personas/derecho-consumidor",
+        "description": "Defendemos tus derechos como consumidor con nuestros servicios legales, evaluamos cada caso en detalle, en aras de brindar una defensa eficaz al momento de resolver conflictos, y asesorar a nuestros clientes para que no sean víctimas de prácticas comerciales injustas o engañosas."
+      },
+      {
+        "img": "/images/home/services/logos/Derecho civil.png",
+        "img_hover": "/images/home/services/logos/Derecho civil white.png",
+        "expert_img": "/images/experts/keiry.png",
+        "title": "Derecho civil",
+        "link": "/servicio-personas/derecho-civil",
+        "description": "Entendemos la importancia de proteger tus derechos y resolver controversias civilmente, por esto, trabajamos de forma personalizada y revisamos en cada caso todos los detalles, con el objetivo de encontrar las mejores estrategias y soluciones."
+      },
+      {
+        "img": "/images/home/services/logos/Tramites administrativos.png",
+        "img_hover": "/images/home/services/logos/Tramites administrativos white.png",
+        "expert_img": "/images/experts/osman.png",
+        "link": "/servicio-personas/tramites-administrativos",
+        "title": "Trámites administrativos",
+        "description": "Brindamos representación legal sólida y eficaz para proteger tus derechos frente a la administración pública, sabemos que estos asuntos pueden afectar tanto a los ciudadanos como las empresas, por eso, estamos aquí para ayudarte."
+      }
+    ]
+  },
+  "services-business": {
+    "title": "Ofrecemos servicios en:",
+    "items": [
+      {
+        "img": "/images/home/services/logos/Derecho comercial.png",
+        "img_hover": "/images/home/services/logos/Derecho comercial white.png",
+        "expert_img": "/images/experts/keiry.png",
+        "title": "Derecho comercial",
+        "link": "/servicio-empresas/derecho-comercial",
+        "description": "Ofrecemos asesoramiento y representación legal en derecho comercial para empresas y personas naturales. Nuestros servicios incluyen creación y revisión de contratos, resolución de conflictos comerciales, asesoría en estructuración de empresas y demás asuntos relacionados con la actividad empresarial."
+      },
+      {
+        "img": "/images/home/services/logos/Derecho laboral.png",
+        "img_hover": "/images/home/services/logos/Derecho laboral white.png",
+        "expert_img": "/images/experts/keiry.png",
+        "title": "Derecho laboral",
+        "link": "/servicio-empresas/derecho-laboral",
+        "description": "Asesoramos y representamos a empresas sobre asuntos contractuales, salariales y despidos. Para que no incurran en conductas contrarias a la ley. Nuestro equipo de abogados expertos en derecho laboral, te ayudarán y acompañarán durante todo el proceso."
+      },
+      {
+        "img": "/images/home/services/logos/Derecho penal.png",
+        "img_hover": "/images/home/services/logos/Derecho penal white.png",
+        "expert_img": "/images/experts/keiry.png",
+        "title": "Derecho Tributario",
+        "link": "/servicio-empresas/derecho-tributario",
+        "description": "Brindamos asesoría en asuntos tributarios, con el propósito de prevenir que su empresa sea sancionada y, así, garantizar el crecimiento seguro de su compañía. Nuestro equipo de abogados expertos en derecho tributario, te ayudarán y acompañarán durante todo el proceso."
+      },
+      {
+        "img": "/images/home/services/logos/Derecho civil.png",
+        "img_hover": "/images/home/services/logos/Derecho civil white.png",
+        "expert_img": "/images/experts/osman.png",
+        "title": "Derecho civil",
+        "link": "/servicio-empresas/derecho-civil",
+        "description": "Ofrecemos asesoría legal para empresas, previniendo problemas legales y brindando soluciones personalizadas en temas jurídicos, desde redacción de contratos hasta representación en juicios civiles."
+      },
+      {
+        "id": "0",
+        "img": "/images/home/services/logos/Derecho del consumidor.png",
+        "img_hover": "/images/home/services/logos/Derecho del consumidor white.png",
+        "expert_img": "/images/experts/juan-jose.png",
+        "title": "Derecho consumidor y competencia desleal",
+        "link": "/servicio-empresas/derecho-consumidor-competencia-desleal",
+        "description": "Asesoramos y representamos a su empresa para que no incurran en actos que puedan perjudicarlos o que las acciones que realice otra empresa no los perjudique. Nuestro equipo de abogados expertos en derecho del consumidor, te ayudarán y acompañarán durante todo el proceso."
+      },
+      {
+        "img": "/images/home/services/logos/Propiedad horizontal.png",
+        "img_hover": "/images/home/services/logos/Propiedad horizontal white.png",
+        "expert_img": "/images/experts/osman.png",
+        "title": "Propiedad Horizontal",
+        "link": "/servicio-empresas/propiedad-horizontal",
+        "description": "Ofrecemos servicios jurídicos y asesorías para empresas sobre la gestión de edificios, condominios y conjuntos. Nuestro equipo de abogados expertos en propiedad horizontal, te ayudarán y acompañarán durante todo el proceso."
+      }
+    ]
+  },
+  "form": {
+    "title": "Si necesitas ayuda legal, no dudes en",
+    "title2": "ponerte en contacto con nosotros.",
+    "inputs": {
+      "dpto": "Departamento",
+      "city": "Ciudad",
+      "address": "Dirección",
+      "fullname": "Nombres y apellidos",
+      "phone": "Tel/Cel",
+      "email": "E-mail",
+      "type_service": "Eligo el tipo de servicio",
+      "service": "Elige un servicio"
+    }
+  },
+  "areas": {
+    "item": [
+      {
+        "name": "Derecho civil",
+        "autor": "images/expertos/keiry-asesoria.jpg",
+        "icon": "/images/iconos/Derecho-civil.png",
+        "description": "Asesoramos a personas naturales y jurídicas en la adquisición de bienes y la ejecución de obligaciones. Igualmente, orientamos sobre asuntos sucesorales.",
+        "id": "1"
+      },
+      {
+        "name": "Derecho constitucional",
+        "autor": "images/expertos/juan-asesoria.png",
+        "icon": "/images/iconos/Derecho-constitucional.png",
+        "description": "Representamos a personas naturales y jurídicas en la protección integral de sus derechos fundamentales ante jueces constitucionales e Inspecciones de Policía.",
+        "id": "2"
+      },
+      {
+        "name": "Derecho comercial",
+        "autor": "images/expertos/keiry-asesoria.jpg",
+        "icon": "/images/iconos/Derecho-comercial.png",
+        "description": "Orientamos a empresas y personas naturales en la constitución y reforma de sociedades comerciales.",
+        "id": "3"
+      },
+      {
+        "name": "Derecho laboral",
+        "autor": "images/expertos/keiry-asesoria.jpg",
+        "icon": "/images/iconos/Derecho-laboral.png",
+        "description": "Ofrecemos consultorías a personas y empresas en la contratación laboral, despidos, liquidaciones y solicitudes de prestaciones sociales.",
+        "id": "4"
+      },
+      {
+        "name": "Derecho de protección al consumidor",
+        "autor": "images/expertos/juan-asesoria.png",
+        "icon": "/images/iconos/Derecho-de-protección-al-consumidor.png",
+        "description": "Diagnosticamos a empresas sobre el cumplimiento de normas de protección al consumidor. Representamos judicial y extrajudicialmente en asuntos jurisdiccionales ante SIC.",
+        "id": "5"
+      },
+      {
+        "name": "Derecho penal",
+        "autor": "images/expertos/juan-asesoria.png",
+        "description": "Asesoramos y representamos a personas en etapa preliminar y de juicio en sus asuntos penales.\n",
+        "id": "6"
+      }
+    ]
+},
+  "who_we_are": {
+    "title": "¿Quienes",
+    "titleColor": "somos?",
+    "content1": "Somos una compañía encargada de asesorar jurídicamente a empresas, con el propósito de que puedan desarrollar sus actividades con solidez legal en el área comercial, laboral, civil y en lo relacionado con el cumplimiento de normas de protección del consumidor.",
+    "content2": "También asesoramos a personas en sus asuntos constitucionales, penales , laboral, civiles, comerciales, policivos y relacionados con derechos del consumidor."
+  },
+  "our_experts" : {
+    "title": "Nuestros",
+    "titleColor": "Expertos",
+    "experts": [
+      {
+        "name": "Keiry",
+        "lastName": "Berdugo",
+        "profession": "Profesional en Derecho ",
+        "position": "Investigadora judicial y Criminalista",
+        "description": "Emprendedora, profesional en Derecho con un enfoque en el ámbito comercial, empresarial y laboral.",
+        "experience": "Más de 6 años de experiencia en creación y asesorías a empresas nacionales e internacionales.",
+        "photo": "/images/expertos/keiry.png",
+        "alt": "Keiry Berdugo",
+        "years_exp": 6
+      },
+      {
+        "name": "Juan José",
+        "lastName": "Castillo",
+        "profession": "Profesional en Derecho ",
+        "position": "Abogado",
+        "description": "Profesional especializado, con enfoque en las áreas de derecho constitucional, penal y empresarial, particularmente en el área de protección del consumidor, propiedad industrial y competencia desleal.",
+        "experience": "Con 2 años de experiencia en la Rama Judicial en el análisis y proyección de asuntos constitucionales y penales.",
+        "photo": "/images/expertos/juan-jose.png",
+        "alt": "Juan-José-Castillo",
+        "years_exp": 2
+      }
+
+    ]
+  }
+}

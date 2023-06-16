@@ -1,0 +1,39 @@
+{
+  "about": {
+    "title": "Sobre nosotros",
+    "content": "Somos una empresa caracterizada por el compromiso en la defensa de los intereses jurídicos de las personas y empresas, con un enfoque multidisciplinar. Su caso es importante para nosotros, contáctenos. "
+  },
+  "contact": {
+    "title": "Contáctanos",
+    "direction": "Transversal 54 # 21a 120 Edificio Bosque Ejectutivo Oficina 702",
+    "phone": "(+57) 324 2382 277"
+  },
+  "schedule": {
+    "title": "Lunes a Viernes",
+    "content": "8:00 a.m. a 5:00 p.m."
+  },
+  "emails": {
+    "email": "info@boga.co"
+  },
+  "social": {
+    "item": [
+      {
+        "icon": "bx bxl-instagram",
+        "link": "https://www.instagram.com/abogacol_/"
+      },
+      {
+        "icon": "bx bxl-linkedin",
+        "link": "https://www.linkedin.com/company/aboga-s-a-s/?viewAsMember=true"
+      },
+      {
+        "icon": "bx bxl-facebook",
+        "link": "https://www.facebook.com/profile.php?id=100090863963031"
+      },
+
+      {
+        "icon": "bx bxl-twitter",
+        "link": "https://twitter.com/Abogacoll_"
+      }
+    ]
+  }
+}
